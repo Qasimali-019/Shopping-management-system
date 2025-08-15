@@ -179,7 +179,7 @@ The Supermarket Management System successfully implements core retail management
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Qasimali-019/Shopping-management-system.git
-    cd your-repo-name
+    cd Shopping-management-system
     ```
 
 2. **Compile the source code:**
